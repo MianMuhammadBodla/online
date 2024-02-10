@@ -1,3 +1,4 @@
+
 import React from "react";
 
 
@@ -25,7 +26,7 @@ const Footer = () => {
                 </a>
                 <p className="mb-7 text-base text-body-color dark:text-dark-6">
                   Sed ut perspiciatis undmnis is iste natus error sit amet
-                  voluptatem totam rem aperiam.
+                  voluptatem totam rem aperiam
                 </p>
                 <p className="flex items-center text-sm font-medium text-dark dark:text-white">
                   <span className="mr-3 text-primary">
